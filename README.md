@@ -69,6 +69,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [nearai/near-mcp](https://github.com/nearai/near-mcp) - An MCP server for the NEAR blockchain.
 - [qvkare/linea-mcp](https://github.com/qvkare/linea-mcp) - An Model Context Protocol (MCP) server that provides on-chain tools for AI applications to interact with the Linea blockchain.
 - [Codex-Data/codex-mcp](https://github.com/Codex-Data/codex-mcp) - An MCP server that provides enriched blockchain data from Codex. This server can be used with any MCP-compatible client like Claude Desktop.
+- [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - A comprehensive Model Context Protocol (MCP) server for the Starknet blockchain. This server provides AI agents with the ability to interact with Starknet networks, query blockchain data, manage wallets, and interact with smart contracts.
 - [RomThpt/mcp-xrpl](https://github.com/RomThpt/mcp-xrpl) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services for the XRP Ledger ecosystem.
 - [hawkli-1994/go-sui-mcp](https://github.com/hawkli-1994/go-sui-mcp) - A Go-based management control plane server for Sui blockchain, providing MCP (Management Control Plane) tools to interact with local Sui client commands. This project integrates with Cursor IDE for enhanced development experience.
 
@@ -123,6 +124,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API.
+- [covalenthq/goldrush-mcp-server](https://github.com/covalenthq/goldrush-mcp-server) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) - Streams real-time cryptocurrency liquidation events from Binance.
 - [kukapay/crypto-orderbook-mcp](https://github.com/kukapay/crypto-orderbook-mcp) - Analyzing order book depth and imbalance across major crypto exchanges.
 - [kukapay/crypto-pegmon-mcp](https://github.com/kukapay/crypto-pegmon-mcp) -  Tracking stablecoin peg integrity across multiple blockchains.
@@ -151,7 +153,6 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
 - [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
 - [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
-- [covalenthq/goldrush-mcp-server](https://github.com/covalenthq/goldrush-mcp-server) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 
 
 ### 🛠️ <a name="tool"></a>Tool
