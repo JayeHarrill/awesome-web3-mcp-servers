@@ -120,7 +120,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 
 Market Data MCP modules retrieve real-time market data from on-chain and off-chain sources via unified query interfaces.
 
-- [covalenthq/goldrush-mcp-server](https://goldrush.dev/docs/goldrush-mcp-server) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
+- [covalenthq/goldrush-mcp-server](https://goldrush.dev/docs/goldrush-mcp-server) - Exposes GoldRush APIs as MCP resources and tools, enabling LLMs to interact with blockchain data across 100+ chains.
 - [Nayshins/mcp-server-ccxt](https://github.com/Nayshins/mcp-server-ccxt) - An Model Context Protocol (MCP) server that provides real-time and historical cryptocurrency market data through integration with major exchanges.
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
